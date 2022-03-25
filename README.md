@@ -1,0 +1,2 @@
+# Predicting-Cricket-Match-Winners-Using-Machine-Learning
+Cricbuzz is an Indian cricket news website owned by Times Internet, It is a one-stop for all cricket enthusiasts for all cricket news, live scores. This includes scorecards, videos, text commentary, team rankings, and player seats. Where Hotstar is used for watching the live match, the cricbuzz is used by people on the move, who want to know the live score. CricBuzz is one of the most popular mobile apps for cricket news and scores in India.  
